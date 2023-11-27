@@ -1,0 +1,68 @@
+{
+    "Camera": {
+        "offsetX": 510.0,
+        "offsetY": 375.0,
+        "rotation": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "zoom": 2.0
+    },
+    "Config": {
+        "enableCollisions": true,
+        "enableEdit": true,
+        "enableLiveReload": true,
+        "gcObjectsRemoved": 0,
+        "reloadInterval": 5,
+        "showDebug": true,
+        "showStats": true
+    },
+    "Developer": "Luis Santos",
+    "GameObjects": [],
+    "Images": [
+        {
+            "filename": "assets/Player/Celebrate.png",
+            "key": "player_win"
+        },
+        {
+            "filename": "assets/Player/Idle.png",
+            "key": "player_idle"
+        },
+        {
+            "filename": "assets/Player/Die.png",
+            "key": "player_die"
+        },
+        {
+            "filename": "assets/Player/Jump.png",
+            "key": "player_jump"
+        },
+        {
+            "filename": "assets/Player/Run.png",
+            "key": "player_run"
+        },
+        {
+            "filename": "assets/FloorTexture.png",
+            "key": "bg"
+        },
+        {
+            "filename": "assets/Orb.png",
+            "key": "orb"
+        },
+        {
+            "filename": "assets/levels/tiles.png",
+            "key": "tiles"
+        }
+    ],
+    "NumObjects": 0,
+    "SceneName": "Scene",
+    "SceneVersion": "0.1",
+    "Window": {
+        "b": 0,
+        "fps": 60,
+        "fullscreen": false,
+        "g": 0,
+        "heigh": 750,
+        "r": 0,
+        "title": "Moves",
+        "width": 1020
+    }
+}
